@@ -1,0 +1,17 @@
+﻿Id;Imagen;x;y;Bando;Defensa;Nombre;Alias
+1;img/IMG2/andaluciamora.png;350;525;Musulmán;50;Andalucía;andalucia
+2;img/IMG2/extremaduramora.png;263;378;Musulmán;60;Extremadura;extremadura
+3;img/IMG2/castillamanchamora.png;432;346;Musulmán;70;Castilla la Mancha;castillamancha
+4;img/IMG2/murciamora.png;529;468;Musulmán;70;Murcia;murcia
+5;img/IMG2/valenciamora.png;577;375;Musulmán;70;Valencia;valencia
+6;img/IMG2/castillaleonCris.png;360;192;Cristiano;70;Castilla y León;castillaleon
+7;img/IMG2/aragonCris.png;563;214;Cristiano;70;Aragón;aragon
+8;img/IMG2/catalunaCris.png;701;191;Cristiano;70;Cataluña;cataluna
+9;img/IMG2/madridmora.png;393;281;Musulmán;70;Madrid;madrid
+10;img/IMG2/navarraCris.png;514;123;Cristiano;70;Navarra;navarra
+11;img/IMG2/riojaCris.png;470;149;Cristiano;70;La Rioja;rioja
+12;img/IMG2/galiciaCris.png;175;95;Cristiano;70;Galicia;galicia
+13;img/IMG2/asturiasCris.png;300;65;Cristiano;70;Asturias;asturias
+14;img/IMG2/cantabriaCris.png;385;83;Cristiano;70;Cantabria;cantabria
+15;img/IMG2/vascongadasCris.png;463;96;Cristiano;70;Vascongadas;vascongadas
+16;img/Coruna_M.png;463;10;Cristiano;70;La Coruña;coruna

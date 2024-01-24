@@ -1,0 +1,5 @@
+﻿Id;Imagen;x;y;Bando;Ataque;Defensa;Salud;Unidades;Nombre
+0;img/caballeria2.png;563;214;Cristiano;20;8;100;3;Conde
+1;img/caballeria2MORO.png;350;525;Musulmán;15;12;100;3;Jefe
+2;img/caballeria2.png;360;192;Cristiano;15;12;100;1;Escudero
+3;img/caballeria2MORO.png;263;378;Musulmán;15;12;100;1;General
