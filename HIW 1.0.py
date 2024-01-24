@@ -208,8 +208,8 @@ while True:
                     vectorFicha=pygame.Vector2(fichaSeleccionada.vector)
                     vectorProvincia = pygame.Vector2(provincia.rect.centerx,provincia.rect.centery)
                     #vectorFicha.move_towards_ip(vectorProvincia,1)
-                    movimientoVector(fichaSeleccionada, vectorFicha,vectorProvincia)
-                    print("Vector es: " + str(vectorFicha))
+                    #movimientoVector(fichaSeleccionada, vectorFicha,vectorProvincia)
+                    #print("Vector es: " + str(vectorFicha))
                     mover=True
 
                     #fichaSeleccionada.moverFicha(provincia.rect.centerx, provincia.rect.centery)
